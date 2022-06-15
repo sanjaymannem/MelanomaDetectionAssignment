@@ -4,7 +4,7 @@ MelanomaDetectionAssignment
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-deteted Melanoma cancer in in the images using cnn
+detected Melanoma cancer in in the images using cnn
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
